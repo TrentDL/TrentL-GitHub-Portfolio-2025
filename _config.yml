@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: TrentL-Portfolio
 description: Bookmark this page for update posts.
-logo: (..\Users\Landsberger\Pictures\fish.png")
+logo: (\Users\Landsberger\Pictures\fish.png)
 
