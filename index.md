@@ -2,7 +2,7 @@
 
 ## APP1 | Card games showcasing basic principles of object oriented programming 
 ![Screenshot 2025-04-28 140753](https://github.com/user-attachments/assets/64712919-2d8b-41e1-8653-bea431432431) 
-++### About this app.++
+**### About this app.**
 #### My personal goal with this app was to get a better grasp of C# principles and what they are. In most cases I tried to break up or 'tag' in comments whatever method or class was demonstrating polymorphism at work.
 
 
