@@ -1,4 +1,4 @@
-### Fun fact: 'SVG' stands for Scalable Vector Graphics\
+### Fun fact: 'SVG' stands for Scalable Vector Graphics<br/>
 
 
 
