@@ -20,3 +20,7 @@ Csharp Work, ordered based on complexity.
 
 
 ## APP3 | Terminology quiz app showcasing data collection.
+![Uploading Screenshot 2025-05-12 021752.png…](https://github.com/user-attachments/assets/5d96134d-1336-4550-8e68-45c4d6d2acf9)
+
+### **About this app.**
+#### This is a trivia game. It is meant to play similarly to The Impossible Quiz game. The app demonstrates object oriented princples like abstraction and polymorphism and containment.
